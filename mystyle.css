@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+h1 {
+	font-weight: 700;
+	color: #fff;
+}
+
+.container {
+	padding-top: 20vh;
+}
+
+.current__div {
+	background-color: #f28749;
+	padding: 30px 80px;
+	border-radius: 30px;
+	text-align: center;
+}
+
+.current__table {
+	margin-top: 20px;
+}
+
+.table__head {
+	border-top: transparent solid 2px;
+}
+
+.table__head h3 {
+	font-weight: 700;
+}
+
+.current__table td {
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #fff;
+}
